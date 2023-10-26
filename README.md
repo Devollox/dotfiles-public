@@ -1,6 +1,18 @@
 <div align="center">
    <h1>
     <a>Day</a>
+    <a href="-" target="_blank">2</a>
+   </h1>
+   <h3>
+     <div>
+       <a href="">Starting</a> to study, I thought and decided that everyday I would devote <a href="">1-2 hours</a> to studying.
+     </div>
+   </h3>
+
+
+   
+   <h1>
+    <a>Day</a>
     <a href="-" target="_blank">1</a>
    </h1>
    <h3>
