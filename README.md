@@ -1,5 +1,14 @@
 <div align="center">
    <h1>
+      <a>Day</a>
+      <a href="-" target="_blank">3</a>
+   </h1>
+</div>
+
+
+
+<div align="center">
+   <h1>
     <a>Day</a>
     <a href="-" target="_blank">2</a>
    </h1>
@@ -26,6 +35,8 @@
    </div>
 
 <h1 align="center">scss</h1>
+
+<h5>scss</h5>
 
 ```scss
 $font-stack: Helvetica, sans-serif;
@@ -60,6 +71,27 @@ span.link {
 
 #some { border: 1px solid red; }
 #some .some { background: white; }
+```
+
+<h3 align="center">The biggest <a href="-" target="_blank">difference</a> is that you don't have to put <a href="-" target="_blank">brackets</a>. <a href="-" target="_blank">I don't know</a> how it wzill <ahref="-" target="_blank">affect me</a>.</h3>
+
+<h5>sass</h5>
+
+```sass
+body 
+	font: 100% $font-stack
+	color: $primary-color
+
+```
+
+<h3 align="center"><a href="-" target="_blank">Error</a></h3>
+
+<h5>sass</h5>
+
+```sass
+body
+	font: 100% $font-stack;
+	color: $primary-color;
 ```
 
 <div align="center">
