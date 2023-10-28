@@ -74,15 +74,32 @@ body
    </h1>
 </div>
 
-<h5>css</h5>
+<h5>sass/scss</h5>
 
-```css
-.box {
-  -webkit-transform: rotate(30deg);
-  -ms-transform: rotate(30deg);
-  transform: rotate(30deg);
-}
+```sass
+/* This CSS will print because %message-shared is extended. */
+%message-shared
+  border: 1px solid #ccc
+  padding: 10px
+  color: #333
+
+
+// This CSS won't print because %equal-heights is never extended.
+%equal-heights
+  display: flex
+  flex-wrap: wrap
+
+
+.message
+  @extend %message-shared
 ```
+
+@mixin transform($property) {
+  -webkit-transform: $property;
+  -ms-transform: $property;
+  transform: $property;
+}
+.box { @include transform(rotate(30deg)); }
 
 <div align="center">
    <h1>
