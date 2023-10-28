@@ -5,7 +5,46 @@
    </h1>
 </div>
 
+```sass
+$primary-color: #933
 
+@mixin font-settings
+  color: $primary-color
+  font-weight: bold 900
+
+.font
+  @include font-settings
+
+```
+
+<div align="center">
+   <h3>
+      <a><a href="">@mixin</a> - one of the coolest tools I've learned from <a href="">styles</a>.</a>
+   </h3>
+</div>
+
+```sass
+// _reset.sass
+html,
+body,
+ul,
+ol
+  margin:  0
+  padding: 0
+
+// base.sass
+@import reset
+body
+  font: 100% Helvetica, sans-serif
+  background-color: #efefef
+
+```
+
+<div align="center">
+   <h3>
+      <a><a href="">@import</a> - also a very interesting thing, it's a pity that I haven't found the application <a href="">yet</a>.</a>
+   </h3>
+</div>
 
 <div align="center">
    <h1>
