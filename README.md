@@ -94,13 +94,6 @@ body
   @extend %message-shared
 ```
 
-@mixin transform($property) {
-  -webkit-transform: $property;
-  -ms-transform: $property;
-  transform: $property;
-}
-.box { @include transform(rotate(30deg)); }
-
 <div align="center">
    <h1>
     <a>Day</a>
