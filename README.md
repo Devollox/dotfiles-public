@@ -74,6 +74,15 @@ body
    </h1>
 </div>
 
+```css
+.box {
+  -webkit-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
+
+```
+
 <h5>sass/scss</h5>
 
 ```sass
