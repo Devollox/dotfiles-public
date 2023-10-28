@@ -46,6 +46,44 @@ body
    </h3>
 </div>
 
+<h5>scss</h5>
+
+```scss
+@mixin transform($property) {
+  -webkit-transform: $property;
+  -ms-transform: $property;
+  transform: $property;
+}
+.box { @include transform(rotate(30deg)); }
+```
+
+<h5>sass</h5>
+
+```sass
+=transform($property)
+  -webkit-transform: $property
+  -ms-transform: $property
+  transform: $property
+.box
+  +transform(rotate(30deg))
+```
+
+<div align="center">
+   <h1>
+     ↓
+   </h1>
+</div>
+
+<h5>css</h5>
+
+```css
+.box {
+  -webkit-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
+```
+
 <div align="center">
    <h1>
     <a>Day</a>
