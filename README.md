@@ -277,25 +277,28 @@ body
       </h3>
       <h4 align="left">
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            <a href="-" target="_blank">SASS</a>
+            <image src="https://github.com/Devollox/My-way/blob/main/image/sass.png" height="12px"> <a href="-" target="_blank">SASS</a>
          </div>
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            <a href="-" target="_blank">Git</a>
+            <a href="-" target="_blank"><image src="https://github.com/Devollox/My-way/blob/main/image/git.png" height="12px"> Git</a>
          </div>
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            Java<a href="-" target="_blank">Script</a>
+            <image src="https://github.com/Devollox/My-way/blob/main/image/JS.png" height="12px"> Java<a href="-" target="_blank">Script</a>
          </div>
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            Type<a href="-" target="_blank">Script</a>
+            <image src="https://github.com/Devollox/My-way/blob/main/image/TS.png" height="12px"> Type<a href="-" target="_blank">Script</a>
          </div>
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            <a href="-" target="_blank">React</a>
+            <image src="https://github.com/Devollox/My-way/blob/main/image/react.png"height="12px"> <a href="-" target="_blank">React</a>
          </div>
 	 <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            Type<a href="-" target="_blank">Tailwind</a>
+            <image src="https://github.com/Devollox/My-way/blob/main/image/tail.png"height="12px"> <a href="-" target="_blank">Tailwind</a>
          </div>
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            <a href="-" target="_blank">RxJS</a>
+            <image src="https://github.com/Devollox/My-way/blob/main/image/rx.png"height="12px"> <a href="-" target="_blank">RxJS</a>
+         </div>
+	 <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            <image src="https://github.com/Devollox/My-way/blob/main/image/5848309bcef1014c0b5e4a9a.png"height="12px"> <a href="-" target="_blank">Redux</a>
          </div>
       </h4>
       <h4>
@@ -309,6 +312,6 @@ body
          </div>
       </h4>
       <h3>
-         <a href="-" target="_blank">Site</a> - Here you can see
+         <a href="devollox.fun" target="_blank">Site</a> - Here you can see
       </h3>
 </div>
