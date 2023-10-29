@@ -32,7 +32,7 @@
       </div>
       <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
          <p>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-           Learned new <a href=""></a>.
+           Learned new <a href="">tags</a>.
          </p>
        </div>
      </h4>
