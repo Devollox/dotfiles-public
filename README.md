@@ -58,8 +58,6 @@
       </h3>
    </div>
 </div>
-
-
 <div align="center">
    <h1>
       <a>Day</a>
