@@ -295,10 +295,13 @@ body
             <image src="https://github.com/Devollox/My-way/blob/main/image/tail.png"height="12px"> <a href="-" target="_blank">Tailwind</a>
          </div>
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            <image src="https://github.com/Devollox/My-way/blob/main/image/rx.png"height="12px"> <a href="-" target="_blank">RxJS</a>
+            <image src="https://github.com/Devollox/My-way/blob/main/image/rx.png"height="12px"> Rx.<a href="-" target="_blank">JS</a>
          </div>
 	 <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             <image src="https://github.com/Devollox/My-way/blob/main/image/5848309bcef1014c0b5e4a9a.png"height="12px"> <a href="-" target="_blank">Redux</a>
+         </div>
+	 <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            <image src="https://github.com/Devollox/My-way/blob/main/image/Node.png"height="12px"> Node.<a href="-" target="_blank">Js</a>
          </div>
       </h4>
       <h4>
