@@ -25,9 +25,7 @@
 	   </div>
          </p>
        </div>
-     </h4>
-   <h4 align="left">
-      <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+       <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
          <a href="-" target="_blank">CSS</a>
       </div>
       <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
