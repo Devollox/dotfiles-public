@@ -291,6 +291,12 @@ body
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             <a href="-" target="_blank">React</a>
          </div>
+	 <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            Type<a href="-" target="_blank">Tailwind</a>
+         </div>
+         <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            <a href="-" target="_blank">RxJS</a>
+         </div>
       </h4>
       <h4>
          <a>
