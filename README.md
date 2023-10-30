@@ -7,7 +7,7 @@
 	For some reason <a href="">WebStorm</a> started lagging(
    </h3>
    <h3 align="left">      ⠀⠀⠀⠀⠀⠀⠀⠀⠀
-      <a href="-" target="_blank">-</a> Studied
+      <a href="-" target="_blank">-</a> I teach
    </h3>
    <h4 align="left">
       <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
