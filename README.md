@@ -5,6 +5,9 @@
    </h1>
    <h3>
 	For some reason <a href="">WebStorm</a> started lagging(
+	   <div>
+		I stayed on scss, it's easier to connect to the project and switch to styles where there are no commas and brackets, I didn't like it, tell me why? It's easier and easier, but not for me... I like to write them.
+	   </div>
    </h3>
    <h3 align="left">      ⠀⠀⠀⠀⠀⠀⠀⠀⠀
       <a href="-" target="_blank">-</a> I teach
