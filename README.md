@@ -3,6 +3,69 @@
       <a>Day</a>
       <a href="-" target="_blank">6</a>
    </h1>
+
+<h3>
+	As for me, writing styles has become much more <a href="">interesting</a>.
+</h3>
+	
+<div align="left">
+
+```scss
+$text-black: black;
+$text-white: white;
+$text-light: #f1f1f1;
+$text-normal: #bfc4c9;
+$text-muted: #95989d;
+$text-link: #5a88ce;
+$mg-font: 20px;
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  height: 60px;
+  display: flex;
+  justify-content: space-around;
+  font-family: poppins,sans-serif;
+  font-weight: 400;
+  background: $text-black;
+  color: $text-white;
+}
+.navbar-font {
+  margin-top: $mg-font;
+
+  a {
+    margin-right: $mg-font;
+  }
+
+  a:hover[class='transition'] {
+    transition: 150ms;
+    color: $text-muted;
+  }
+}
+```
+
+```html
+
+<body>
+    <div class="navbar">
+        <div class="navbar-title-font navbar-font">
+            <a>Devollox</a>
+        </div>
+        <div class="navbar-main-content navbar-font">
+            <a class='transition'>Hello</a>
+            <a class='transition'>GitHub</a>
+        </div>
+    </div>
+</body>
+
+```
+
+</div>
+
+
    <h3>
 	For some reason <a href="">WebStorm</a> started lagging(
 	   <div>
