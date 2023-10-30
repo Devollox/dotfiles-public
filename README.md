@@ -377,7 +377,7 @@ body
       </h3>
       <h4 align="left">
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            <image src="https://github.com/Devollox/My-way/blob/main/image/sass.png" height="12px"> <a href="-" target="_blank">SASS</a>
+            <image src="https://github.com/Devollox/My-way/blob/main/image/sass.png" height="12px"> <a href="-" target="_blank">SASS</a>/<a href="-" target="_blank">SCSS</a>
          </div>
          <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             <a href="-" target="_blank"><image src="https://github.com/Devollox/My-way/blob/main/image/git.png" height="12px"> Git</a>
