@@ -18,7 +18,10 @@
       </div>
       <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
          <p>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-	     I continue to study these <a href="">two technologies</a>. I'm thinking of writing a navbar using <a href="">SASS</a> and <a href="">Tailwind</a>.
+	     I continue to study these <a href="">two technologies</a>. I'm thinking of writing a navbar using <a href="">SASS</a> and <a href=""></a>
+	<div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+		Tailwind.
+	</div>
          </p>
        </div>
 </div>
