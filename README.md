@@ -1,11 +1,36 @@
 <div align="center">
    <h1>
       <a>Day</a>
+      <a href="-" target="_blank">6</a>
+   </h1>
+   <h3>
+	For some reason <a href="">WebStorm</a> started lagging(
+   </h3>
+   <h3 align="left">      ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      <a href="-" target="_blank">-</a> Studied
+   </h3>
+   <h4 align="left">
+      <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+         <a href="-" target="_blank">SASS</a>
+      </div>
+	<div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+         <a href="-" target="_blank">Tailwind</a>
+      </div>
+      <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+         <p>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+	     I continue to study these <a href="">two technologies</a>. I'm thinking of writing a navbar using <a href="">SASS</a> and <a href="">Tailwind</a>.
+         </p>
+       </div>
+</div>
+
+
+<div align="center">
+   <h1>
+      <a>Day</a>
       <a href="-" target="_blank">5</a>
    </h1>
    <h3>
       <a>It didn't work out with roadmap, <a href="">why?</a> Because I couldn't come up with an interface, well, <a href="">okay...</a> Today I will continue to study <a href="">SASS</a>. I will 	try to write a small project <a href="">using</a> this technology. I think then to look about <a href="">Tailwind</a>. Writing styles in classes is fun , <a href="">right</a>?</a>
-   </h3>
    </h3>
    <h3 align="left">      ⠀⠀⠀⠀⠀⠀⠀⠀⠀
       <a href="-" target="_blank">-</a> Studied
