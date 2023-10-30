@@ -64,8 +64,14 @@ body {
 ```
 
 </div>
+   <h3>
+	As for me, it has become much more convenient to enter <a href="">variables</a>. 
+   </h3>
 
-
+```js
+var < $
+```
+   
    <h3>
 	For some reason <a href="">WebStorm</a> started lagging(
 	   <div>
