@@ -5,6 +5,9 @@
    </h1>
 <h3>
 	last day i study <a href="">SASS</a>/<a href="">SCSS</a>
+	<div>
+		I'm <a href="">not</a> learning <a href="">git</a> because I already know it but <a href="">don't use</a> it.
+	</div>
 </h3>
 
  
