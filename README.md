@@ -68,7 +68,7 @@ body {
 ```html
 
 <body>
-    <div class="navbar">
+    <nav class="navbar">
         <div class="navbar-title-font navbar-font">
             <a>Devollox</a>
         </div>
@@ -76,7 +76,7 @@ body {
             <a class='transition'>Hello</a>
             <a class='transition'>GitHub</a>
         </div>
-    </div>
+    </nav>
 </body>
 
 ```
