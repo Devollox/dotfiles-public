@@ -3,6 +3,16 @@
       <a>Day</a>
       <a href="-" target="_blank">6</a>
    </h1>
+</div>
+
+
+
+
+<div align="center">
+   <h1>
+      <a>Day</a>
+      <a href="-" target="_blank">6</a>
+   </h1>
 
 <h3>
 	As for me, writing styles has become much more <a href="">interesting</a>.
