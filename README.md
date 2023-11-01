@@ -1,6 +1,15 @@
 <div align="center">
    <h1>
       <a>Day</a>
+      <a href="-" target="_blank">8</a>
+	   <h3>
+		   I'm starting to make my own store, since I sell microphones, I thought of making it. I will use TailWind,SASS,Next.Js
+	   </h3>
+   </h1>
+</div>
+<div align="center">
+   <h1>
+      <a>Day</a>
       <a href="-" target="_blank">7</a>
    </h1>
 <h3>
@@ -9,8 +18,6 @@
 		I'm <a href="">not</a> learning <a href="">git</a> because I already know it but <a href="">don't use</a> it.
 	</div>
 </h3>
-
- 
 </div>
 
 
