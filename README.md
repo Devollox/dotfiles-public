@@ -3,7 +3,7 @@
       <a>Day</a>
       <a href="-" target="_blank">8</a>
 	   <h3>
-		   I'm starting to make my own store, since I sell microphones, I thought of making it. I will use TailWind,SASS,Next.Js
+		   I'm starting to make my own <a href="">store</a>, since I sell <a href="">microphones</a>, I thought of making it. I will use <a href="">TailWind</a>, <a href="">SASS</a>, <a href="">Next.Js</a>.
 	   </h3>
    </h1>
 </div>
