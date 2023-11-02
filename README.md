@@ -1,6 +1,23 @@
 <div align="center">
    <h1>
       <a>Day</a>
+      <a href="-" target="_blank">9</a>
+   </h1>
+   <h3 align="left">      ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      <a href="-" target="_blank">-</a> I teach
+   </h3>
+   <h4 align="left">
+      <div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+         <a href="-" target="_blank">RxJS</a>
+      </div>
+	<div>            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+         <a href="-" target="_blank">Git</a>
+      </div>
+   </h4>
+</div>
+<div align="center">
+   <h1>
+      <a>Day</a>
       <a href="-" target="_blank">8</a>
 	   <h3>
 		   I'm starting to make my own <a href="">store</a>, since I sell <a href="">microphones</a>, I thought of making it. I will use <a href="">TailWind</a>, <a href="">SASS</a>, <a href="">Next.Js</a>.
@@ -19,10 +36,6 @@
 	</div>
 </h3>
 </div>
-
-
-
-
 <div align="center">
    <h1>
       <a>Day</a>
