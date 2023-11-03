@@ -3,6 +3,9 @@
       <a>Day</a>
       <a href="-" target="_blank">11</a>
    </h1>
+	
+![image](https://github.com/Devollox/MyWay/assets/122895078/db5f2ae9-18cf-4316-859e-47bdf0b458bb)
+
 <h3>
 	<a href="https://www.figma.com/file/NcO0x65HUEmHxqby1nb4wj/Minimal-404-Page-Templates-(Community)?type=design&node-id=15-52&mode=design&t=WDJEWDSrC5134IMh-0" target="_blank">Figma</a> - Here you can see
 </h3>
