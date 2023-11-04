@@ -1,6 +1,18 @@
 <div align="center">
    <h1>
       <a>Day</a>
+      <a href="-" target="_blank">12</a>
+   </h1>
+<h3>
+	The site is now available and you can look at it!	
+</h3>
+ ⠀⠀<h3>
+	 <a href="https://www.netcore.fun/" target="_blank">Site</a> - Here you can see
+    </h3>⠀⠀⠀
+</div>
+<div align="center">
+   <h1>
+      <a>Day</a>
       <a href="-" target="_blank">11</a>
    </h1>
 	
