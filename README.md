@@ -4,6 +4,15 @@
       <a href="-" target="_blank">11</a>
    </h1>
 	
+![image](https://github.com/Devollox/MyWay/assets/122895078/0984d998-1263-4401-9939-1962fbed51c9)
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</div>
+<div align="center">
+   <h1>
+      <a>Day</a>
+      <a href="-" target="_blank">11</a>
+   </h1>
+	
 ![image](https://github.com/Devollox/MyWay/assets/122895078/db5f2ae9-18cf-4316-859e-47bdf0b458bb)
 
 <h3>
