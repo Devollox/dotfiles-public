@@ -1,10 +1,13 @@
 <div align="center">
    <h1>
       <a>Day</a>
-      <a href="-" target="_blank">16-17</a>
+      <a href="-" target="_blank">16-19</a>
    </h1>
    <h3 align="left">      ⠀⠀⠀⠀⠀⠀⠀⠀⠀
       New Project :)
+	   
+![image](https://github.com/Devollox/MyWay/assets/122895078/ec056019-dd42-41fc-8646-2aae8c141195)
+
    </h3>
 </div>
 <div align="center">
